@@ -1,2 +1,19 @@
-# quasar_sudoku
-quasar and vue based sudoku game 
+# Sudoku
+
+> A Sudoku game base Quasar and Vue
+
+## Build Setup
+
+``` bash
+# install dependencies
+$ npm install
+
+# serve with hot reload at localhost:8080
+$ quasar dev
+
+# build for production with minification
+$ quasar build
+
+# lint code
+$ quasar lint
+```
