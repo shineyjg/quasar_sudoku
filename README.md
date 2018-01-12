@@ -1,6 +1,6 @@
 # Sudoku
 
-> A Sudoku game base Quasar and Vue
+> A Quasar and Vue based Sudoku game 
 
 ## Build Setup
 
